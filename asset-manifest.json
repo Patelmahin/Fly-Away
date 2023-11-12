@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fly-Away/static/css/main.f2e96c76.css",
+    "main.js": "/Fly-Away/static/js/main.cd7d242c.js",
+    "index.html": "/Fly-Away/index.html",
+    "main.f2e96c76.css.map": "/Fly-Away/static/css/main.f2e96c76.css.map",
+    "main.cd7d242c.js.map": "/Fly-Away/static/js/main.cd7d242c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e96c76.css",
+    "static/js/main.cd7d242c.js"
+  ]
+}
